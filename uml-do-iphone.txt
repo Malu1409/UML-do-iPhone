@@ -1,0 +1,12 @@
+﻿classDiagram
+    class iPhone {
+        + tocar()
+        + pausar()
+        + selecionarMusica(musica: String)
+        + ligar(numero: String)
+        + atender()
+        + iniciarCorreioVoz()
+        + exibirPagina(url: String)
+        + adicionarNovaAba()
+        + atualizarPagina()
+    }
